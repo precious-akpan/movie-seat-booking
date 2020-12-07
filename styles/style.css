@@ -26,6 +26,8 @@ body {
   margin-left: 10px;
   padding: 5px 15px;
   border-radius: 5px;
+  font-size: 14px;
+  appearance: none;
 }
 
 .container {
